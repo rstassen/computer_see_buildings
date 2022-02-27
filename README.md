@@ -1,5 +1,5 @@
 # Computer. See. Buildings.
-#### Semantic segmentation for building footprint detection with applications in urban development
+### Semantic segmentation for building footprint detection with applications in urban development
 
 
 ## Background
