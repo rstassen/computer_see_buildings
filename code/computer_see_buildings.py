@@ -1,3 +1,7 @@
+#################################################
+# streamlit app code
+#################################################
+
 #import libraries
 import streamlit as st
 import numpy as np
@@ -53,7 +57,6 @@ h_meters = st.number_input('Input horizontal image extent in meters', step=1)
 if uploaded_image is not None:
     img = Image.open(uploaded_image)
     
-  
     col1, col2 = st.columns( [0.5, 0.5])
     with col1:
         st.markdown('<p style="text-align: center;">Formatted Image</p>',unsafe_allow_html=True)
