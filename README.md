@@ -25,11 +25,11 @@ In addition, even if performance were improved for building footprint detection,
 
 Training Image:
 
-![image](https://user-images.githubusercontent.com/91850081/161823227-807c23ac-aec4-418c-af02-be5860715125.png)
+ ![image](https://user-images.githubusercontent.com/91850081/161823227-807c23ac-aec4-418c-af02-be5860715125.png)
 
 Prediction on Training Image:
 
-![image](https://user-images.githubusercontent.com/91850081/161823276-cf8f3550-d3fd-4dad-8ffd-4571b235ab56.png)
+ ![image](https://user-images.githubusercontent.com/91850081/161823276-cf8f3550-d3fd-4dad-8ffd-4571b235ab56.png)
 
 Prediction on Unseen Image (screenshot of Toronto neighbourhood from Google Earth)
 
