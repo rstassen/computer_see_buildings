@@ -24,10 +24,13 @@ The model performs well on training and validation data but struggles with unsee
 In addition, even if performance were improved for building footprint detection, the model would need to be expanded in order to be useful for the stated purpose because, presently, it cannot distinguish between roads/parking lots and actual useable space. However, given these caveats this stands as a useful proof-of-concept, and serves as a solid foundation for further exploration.
 
 Training Image:
+
 ![image](https://user-images.githubusercontent.com/91850081/161823227-807c23ac-aec4-418c-af02-be5860715125.png)
 
 Prediction on Training Image:
+
 ![image](https://user-images.githubusercontent.com/91850081/161823276-cf8f3550-d3fd-4dad-8ffd-4571b235ab56.png)
 
 Prediction on Unseen Image (screenshot of Toronto neighbourhood from Google Earth)
+
 ![image](https://user-images.githubusercontent.com/91850081/161821190-e04b5cb2-ee80-49a7-bb96-6c98e4971b30.png)
