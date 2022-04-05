@@ -20,3 +20,6 @@ In this project I use semantic segmentation to attempt to identify building foot
 ## Results
 
 The model performs well on training and validation data but struggles with unseen data. Its ability to produce accurate predictions depends on qualities of the satellite image, such as its colour map, brightness, and level of zoom. This is likely due to the homogeneity of training images. Results could be improved by included images from diverse locations, but also through data augmentation to vary the zoom, clarity, brightness, and other qualities of the training images.
+
+![image](https://user-images.githubusercontent.com/91850081/161821190-e04b5cb2-ee80-49a7-bb96-6c98e4971b30.png)
+
